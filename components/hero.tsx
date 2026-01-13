@@ -179,7 +179,7 @@ export function Hero() {
           animate={isLoaded ? "visible" : "hidden"}
           className="text-lg sm:text-xl md:text-2xl text-muted-foreground mb-2 tracking-wide"
         >
-          Software Engineer
+        Computer Science Student
         </motion.p>
 
         <motion.p
@@ -189,7 +189,8 @@ export function Hero() {
           animate={isLoaded ? "visible" : "hidden"}
           className="text-accent text-base sm:text-lg md:text-xl mb-12 tracking-widest uppercase font-semibold"
         >
-          Creative Technologist
+        Aspiring Cloud Engineer
+
         </motion.p>
 
         {/* CTA Buttons */}
